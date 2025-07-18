@@ -4,4 +4,10 @@ This is the L-shaped latch that holds the front of the dust collection bin on a 
 
 The model was created using TinkerCAD and has been shared on Thingiverse under the Creative Commons public license
 
+## Model rendered in TinkerCAD
+<div><img src="/assets/tinkercad-latch.jpg" width="400" /></div>
+
+## Part installed on vacuum
+<div><img src="/assets/IMG_0941.jpg" width="400" /></div>
+
 https://www.thingiverse.com/thing:7092383
